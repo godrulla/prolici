@@ -1,0 +1,20 @@
+{
+  "projects": {
+    "default": "prolici"
+  },
+  "targets": {
+    "prolici": {
+      "hosting": {
+        "prolici": [
+          "prolici"
+        ],
+        "prolici-do": [
+          "prolici-do"
+        ],
+        "prolici-com-do": [
+          "prolici-com-do"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,71 @@
+INSTRUCCIONES PARA COMPLETAR EL SITIO WEB DE PROLICI
+=============================================
+
+El sitio web de Prolici ha sido desarrollado con éxito y está listo para su uso. Sin embargo, para que el sitio web se vea completo, es necesario agregar imágenes reales en lugar de los placeholders HTML que se han creado.
+
+ESTRUCTURA DEL SITIO
+-------------------
+El sitio web consta de las siguientes páginas:
+
+1. Inicio (index.html)
+2. Nosotros (nosotros.html)
+3. Servicios (servicios.html)
+4. Proyectos (proyectos.html)
+5. Contacto (contacto.html)
+
+IMÁGENES NECESARIAS
+------------------
+Para completar el sitio web, necesitará crear o adquirir las siguientes imágenes:
+
+1. Imágenes de fondo para las páginas:
+   - img/hero-bg.jpg (1920x1080px) - Fondo para la sección principal de la página de inicio
+   - img/nosotros-bg.jpg (1920x1080px) - Fondo para la página Sobre Nosotros
+   - img/servicios-bg.jpg (1920x1080px) - Fondo para la página de Servicios
+   - img/proyectos-bg.jpg (1920x1080px) - Fondo para la página de Proyectos
+   - img/contacto-bg.jpg (1920x1080px) - Fondo para la página de Contacto
+   - img/philosophy-bg.jpg (1920x1080px) - Fondo para la sección de filosofía
+   - img/footer-bg.png (1920x500px) - Imagen de fondo para el footer
+
+2. Imágenes para los servicios:
+   - img/servicio-diseno.jpg (800x600px) - Diseño Arquitectónico
+   - img/servicio-planificacion.jpg (800x600px) - Planificación y Gestión
+   - img/servicio-construccion.jpg (800x600px) - Construcción Ligera
+   - img/servicio-acabados.jpg (800x600px) - Acabados
+   - img/servicio-instalaciones.jpg (800x600px) - Instalaciones
+   - img/servicio-entrega.jpg (800x600px) - Entrega Final
+
+3. Imágenes para los proyectos:
+   - img/proyecto1.jpg (800x600px) - Residencial Las Palmas
+   - img/proyecto2.jpg (800x600px) - Centro Comercial El Dorado
+   - img/proyecto3.jpg (800x600px) - Hotel Vista Mar
+   - img/proyecto4.jpg (800x600px) - Oficinas Corporativas
+   - img/proyecto5.jpg (800x600px) - Villa Privada
+   - img/proyecto6.jpg (800x600px) - Restaurante
+   - img/proyecto7.jpg (800x600px) - Resort
+   - img/proyecto8.jpg (800x600px) - Centro de Innovación
+   - img/proyecto9.jpg (800x600px) - Condominio
+
+4. Imágenes para el equipo:
+   - img/team-armando.jpg (400x500px) - Armando Díaz
+   - img/team-ronny.jpg (400x500px) - Ronny A. Cruz
+   - img/team-member3.jpg (400x500px) - Equipo Técnico
+
+PLACEHOLDERS HTML
+---------------
+Se han creado archivos HTML que sirven como placeholders para las imágenes. Estos archivos se encuentran en la carpeta "img" y tienen el mismo nombre que las imágenes requeridas, pero con extensión .html en lugar de .jpg o .png.
+
+Puede abrir estos archivos en un navegador para ver el tamaño y el contenido sugerido para cada imagen. Una vez que tenga las imágenes reales, simplemente reemplace estos archivos HTML con las imágenes correspondientes.
+
+GENERADOR DE PLACEHOLDERS
+-----------------------
+También se ha incluido un generador de placeholders (img/placeholder.html) que puede utilizar para crear más placeholders si es necesario. Este generador le permite especificar el tamaño, el texto y la categoría de la imagen, y genera un placeholder visual que puede utilizar como referencia.
+
+PERSONALIZACIÓN ADICIONAL
+-----------------------
+Una vez que haya agregado las imágenes reales, puede personalizar aún más el sitio web modificando los archivos HTML y CSS según sus necesidades. El archivo README.md contiene información detallada sobre la estructura del sitio y cómo personalizarlo.
+
+CONTACTO
+-------
+Si tiene alguna pregunta o necesita asistencia adicional, no dude en contactarnos.
+
+¡Gracias por elegir nuestros servicios!
